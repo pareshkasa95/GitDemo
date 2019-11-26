@@ -1,0 +1,3 @@
+to reset to specific git commit and push to github
+a)git reset --hard 694b4fcfec483b31e0839eec8d9f7aaaa3e30f03
+b)git push -f origin master
